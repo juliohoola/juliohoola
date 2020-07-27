@@ -1,0 +1,38 @@
+body { background-color: black; 
+}
+	
+#ContenedorPrincipal{  
+	background-color: black;
+	width: 100vw;
+	height: 80vh;
+	background-repeat: no-repeat;
+	border: 1px solid; }
+	#Contenedor1{   
+		float: left;   
+		width: 13.5vw;   
+		height: 72.5vh;   
+		margin: 5px;   
+		background-image: url('https://animapedia.org/wp-content/uploads/2018/05/animales-terrestres-bioma-monta%C3%B1as-animapedia.jpg');}
+	#Contenedor2 {   
+		float: left;   
+		width: 13.5vw;   
+		height: 72.5vh;   
+		margin: 5px; 
+		background-image: url('https://animapedia.org/wp-content/uploads/2018/05/animales-terrestres-bioma-monta%C3%B1as-animapedia.jpg');}
+	#Contenedor3 {   
+		float: left;   
+		width: 13.5vw;   
+		height: 72.5vh;   
+		margin: 5px;    
+		background-image: url('https://animapedia.org/wp-content/uploads/2018/05/animales-terrestres-bioma-monta%C3%B1as-animapedia.jpg');}
+	#Contenedor4 {   
+		float: left;   
+		width: 13.5vw;   
+		height: 72.5vh;   
+		margin: 5px;   
+		background-image: url('https://animapedia.org/wp-content/uploads/2018/05/animales-terrestres-bioma-monta%C3%B1as-animapedia.jpg');}
+
+	
+.restaurar {   clear: both; }
+
+}

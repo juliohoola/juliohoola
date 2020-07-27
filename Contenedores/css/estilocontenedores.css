@@ -1,0 +1,31 @@
+#ContenedorUno {
+	width: 50vw;
+	height: 10vh;
+	background-color: dodgerblue;
+	margin: 20px 50px 60px 50px;
+	padding: 50px;
+}
+#Dos {
+	width: 30vw;
+	height: 10vh;
+	background-color: tomato;
+	margin:auto;
+}
+#Tres {
+	width: 80vw;
+	height: 40vh;
+	background-image: url('../img/rick.jpg');
+	margin: auto;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.TipoA {
+	width: 40vw;
+	height: 10vh;
+	background-color: red;
+	margin:20px;
+}
+.TipoA:hover{
+	background-image: url('../img/retro.jpg');
+	background-size: 100% 100%;
+}
